@@ -24,6 +24,7 @@ git commit --> the repository will stop tracking the file changes for the file `
 renaming files or moving files to directory :
 
 git mv README.md README - this command is equivalent to executing the following:
+
 mv README.md README
 git rm README.md
 git add README
