@@ -1,1 +1,1 @@
-I have created this project to learn the git basic.
+This is was editted using the cat > README.md command
